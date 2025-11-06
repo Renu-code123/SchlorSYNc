@@ -223,7 +223,10 @@ This project aims to become a **fully functional research management system** wi
 - * Convert to a fully dynamic app (React/Vanilla JS)*
 - * Login/signup feature for cloud syncing*
 
+#PPT LINK :https://1drv.ms/p/c/8ceba7ce387d0525/ES6fbNGd0jFFgk50-r2zfqcBouaPDoIa57oqDg69MkbFFA?e=vkLuks
+
 ---
+
 
 
 
