@@ -76,17 +76,17 @@ This allows users to focus on learning and innovation instead of manual data han
 
 ```
 📦 Research-Paper-Organizer
-├── 📂 .github/                # GitHub workflows, issue & PR templates <br> 
-├── 📂 .vscode/                  # VS Code workspace settings <br> 
-├── 📂 backend/                  # Backend code <br> 
-│   ├── 📂 src/                  
-│   │   ├── 📂 config/           # Configuration files <br> 
-│   │   ├── 📂 controllers/      # Business logic <br> 
-│   │   ├── 📂 middleware/       # Middleware functions <br> 
-│   │   ├── 📂 models/           # Database models <br> 
-│   │   ├── 📂 routes/           # API routes <br> 
-│   │   ├── 📂 utils/            # Helper utilities <br> 
-│   │   └── 📜 app.js            # App entry point <br> 
+├── 📂 .github/  <br>               # GitHub workflows, issue & PR templates <br> 
+├── 📂 .vscode/   <br>                # VS Code workspace settings <br> 
+├── 📂 backend/   <br>                # Backend code <br> 
+│   ├── 📂 src/   <br>                
+│   │   ├── 📂 config/   <br>         # Configuration files <br> 
+│   │   ├── 📂 controllers/ <br>      # Business logic <br> 
+│   │   ├── 📂 middleware/  <br>      # Middleware functions <br> 
+│   │   ├── 📂 models/      <br>      # Database models <br> 
+│   │   ├── 📂 routes/      <br>      # API routes <br> 
+│   │   ├── 📂 utils/      <br>       # Helper utilities <br> 
+│   │   └── 📜 app.js     <br>        # App entry point <br> 
 │   │
 │   ├── 📜 .env.example          # Example environment variables <br> 
 │   ├── 📜 .gitignore            # Git ignore rules <br> 
@@ -94,30 +94,30 @@ This allows users to focus on learning and innovation instead of manual data han
 │   ├── 📜 package.json          # Backend dependencies & scripts <br> 
 │   └── 📜 test-env.js           # Environment test script <br> 
 │
-├── 📂 css/                      # Stylesheets <br> 
-│   ├── 📜 Tag-Based-filtering.css
-│   ├── 📜 about.css
-│   ├── 📜 add-organize-papers.css
-│   ├── 📜 ats-checker.css
-│   ├── 📜 auth.css
-│   ├── 📜 blog.css
-│   ├── 📜 contact.css
-│   ├── 📜 faq.css
-│   ├── 📜 forgot-password.css
-│   ├── 📜 glossary.css
-│   ├── 📜 hemingway.css
-│   ├── 📜 research ethics.css
-│   ├── 📜 pdf-annotator.css
-│   ├── 📜 pdf-viewer.css
-│   ├── 📜 profile-settings.css
-│   ├── 📜 style.css
-│   ├── 📜 summarize.css
-│   └── 📜 tool.css
+├── 📂 css/          <br>             # Stylesheets <br> 
+│   ├── 📜 Tag-Based-filtering.css<br> 
+│   ├── 📜 about.css<br> 
+│   ├── 📜 add-organize-papers.css<br> 
+│   ├── 📜 ats-checker.css<br> 
+│   ├── 📜 auth.css<br> 
+│   ├── 📜 blog.css<br> 
+│   ├── 📜 contact.css<br> 
+│   ├── 📜 faq.css<br> 
+│   ├── 📜 forgot-password.css<br> 
+│   ├── 📜 glossary.css<br> 
+│   ├── 📜 hemingway.css<br> 
+│   ├── 📜 research ethics.css<br> 
+│   ├── 📜 pdf-annotator.css<br> 
+│   ├── 📜 pdf-viewer.css<br> 
+│   ├── 📜 profile-settings.css<br> 
+│   ├── 📜 style.css<br> 
+│   ├── 📜 summarize.css<br> 
+│   └── 📜 tool.css<br> 
 │
-├── 📂 docs/                     # Documentation files
-├── 📂 favicon/                  # Favicon & PWA assets
-├── 📂 images/                   # Image assets
-├── 📂 js/                       # JavaScript files
+├── 📂 docs/         <br>             # Documentation files
+├── 📂 favicon/       <br>            # Favicon & PWA assets
+├── 📂 images/        <br>            # Image assets
+├── 📂 js/            <br>            # JavaScript files
 │
 ├── 📜 .gitignore
 ├── 📜 Faq.html
@@ -195,13 +195,10 @@ Before running the project, make sure you have the following installed:
 - **Web Browser (Chrome/Firefox)** – to view the HTML pages
 
 ----
-      Team:GenAI team
+ # Team: GenAI team
 
       -Renu Kumari Prajapati
       -Arushi Thakur
-      
-
-
 
 ---
 
@@ -227,5 +224,6 @@ This project aims to become a **fully functional research management system** wi
 - * Login/signup feature for cloud syncing*
 
 ---
+
 
 
