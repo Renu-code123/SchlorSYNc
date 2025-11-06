@@ -165,7 +165,7 @@ This allows users to focus on learning and innovation instead of manual data han
 ```
 
 
-**💡 How to Use**
+### How to Use**
 
 1. Clone this repo:
 
@@ -195,14 +195,14 @@ Before running the project, make sure you have the following installed:
 - **Web Browser (Chrome/Firefox)** – to view the HTML pages
 
 ----
- # Team: GenAI team
+# # Team: GenAI team
 
       -Renu Kumari Prajapati
       -Arushi Thakur
 
 ---
 
-**🔮 Future Overview**
+##**🔮 Future Overview**
 
 This project aims to become a **fully functional research management system** with features like:
 - **Cloud Syncing** for research papers.
@@ -213,7 +213,7 @@ This project aims to become a **fully functional research management system** wi
 
 ---
 
-**🛠️ Roadmap (Planned Features)**
+##**🛠️ Roadmap (Planned Features)**
 
 - * Add localStorage support to save entries*
 - * Add dynamic paper upload & preview*
@@ -226,6 +226,7 @@ This project aims to become a **fully functional research management system** wi
 #PPT LINK :https://1drv.ms/p/c/8ceba7ce387d0525/ES6fbNGd0jFFgk50-r2zfqcBouaPDoIa57oqDg69MkbFFA?e=vkLuks
 
 ---
+
 
 
 
