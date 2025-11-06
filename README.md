@@ -114,53 +114,53 @@ This allows users to focus on learning and innovation instead of manual data han
 │   ├── 📜 summarize.css<br> 
 │   └── 📜 tool.css<br> 
 │
-├── 📂 docs/         <br>             # Documentation files
-├── 📂 favicon/       <br>            # Favicon & PWA assets
-├── 📂 images/        <br>            # Image assets
-├── 📂 js/            <br>            # JavaScript files
+├── 📂 docs/         <br>             # Documentation files<br> 
+├── 📂 favicon/       <br>            # Favicon & PWA assets<br> 
+├── 📂 images/        <br>            # Image assets<br> 
+├── 📂 js/            <br>            # JavaScript files<br> 
 │
-├── 📜 .gitignore
-├── 📜 Faq.html
-├── 📜 License
-├── 📜 Masthead.html
-├── 📜 Pdfconverter.html
-├── 📜 Research_Paper_Summary.py
-├── 📜 TODO.md
-├── 📜 Tag-Based-filtering.html
-├── 📜 about.html
-├── 📜 about_new.html
-├── 📜 add-organize-papers.html
-├── 📜 app.js
-├── 📜 ats-checker.html
-├── 📜 auth-callback.html
-├── 📜 blog.html
-├── 📜 contact.html
-├── 📜 forgot-password.html
-├── 📜 glossary.html
-├── 📜 hemingway.html
-├── 📜 home.html
-├── 📜 index.html
-├── 📜 landing.css
-├── 📜 landing.js
-├── 📜 login.html
-├── 📜 manage.py
-├── 📜 offline.html
-├── 📜 research ethics.html
-├── 📜 package.json
-├── 📜 pdf-annotator.html
-├── 📜 pdf-viewer.html
-├── 📜 privacy.html
-├── 📜 profile-settings.html
-├── 📜 profile.html
-├── 📜 roadmap.html
-├── 📜 signup.html
-├── 📜 site.webmanifest
-├── 📜 slider.css
-├── 📜 summarize.html
-├── 📜 terms-of-service.html
-├── 🖼️ test1.jpg
-├── 🖼️ testimonialw.png
-└── 📜 tools.html
+├── 📜 .gitignore<br> 
+├── 📜 Faq.html<br> 
+├── 📜 License<br> 
+├── 📜 Masthead.html<br> 
+├── 📜 Pdfconverter.html<br> 
+├── 📜 Research_Paper_Summary.py<br> 
+├── 📜 TODO.md<br> 
+├── 📜 Tag-Based-filtering.html<br> 
+├── 📜 about.html<br> 
+├── 📜 about_new.html<br> 
+├── 📜 add-organize-papers.html<br> 
+├── 📜 app.js<br> 
+├── 📜 ats-checker.html<br> 
+├── 📜 auth-callback.html<br> 
+├── 📜 blog.html<br> 
+├── 📜 contact.html<br> 
+├── 📜 forgot-password.html<br> 
+├── 📜 glossary.html<br> 
+├── 📜 hemingway.html<br> 
+├── 📜 home.html<br> 
+├── 📜 index.html<br> 
+├── 📜 landing.css<br> 
+├── 📜 landing.js<br> 
+├── 📜 login.html<br> 
+├── 📜 manage.py<br> 
+├── 📜 offline.html<br> 
+├── 📜 research ethics.html<br> 
+├── 📜 package.json<br> 
+├── 📜 pdf-annotator.html<br> 
+├── 📜 pdf-viewer.html<br> 
+├── 📜 privacy.html<br> 
+├── 📜 profile-settings.html<br> 
+├── 📜 profile.html<br> 
+├── 📜 roadmap.html<br> 
+├── 📜 signup.html<br> 
+├── 📜 site.webmanifest<br> 
+├── 📜 slider.css<br> 
+├── 📜 summarize.html<br> 
+├── 📜 terms-of-service.html<br> 
+├── 🖼️ test1.jpg<br> 
+├── 🖼️ testimonialw.png<br> 
+└── 📜 tools.html<br> 
 
 ```
 
@@ -224,6 +224,7 @@ This project aims to become a **fully functional research management system** wi
 - * Login/signup feature for cloud syncing*
 
 ---
+
 
 
 
