@@ -76,25 +76,25 @@ This allows users to focus on learning and innovation instead of manual data han
 
 ```
 📦 Research-Paper-Organizer
-├── 📂 .github/                  # GitHub workflows, issue & PR templates
-├── 📂 .vscode/                  # VS Code workspace settings
-├── 📂 backend/                  # Backend code
+├── 📂 .github/                # GitHub workflows, issue & PR templates <br> 
+├── 📂 .vscode/                  # VS Code workspace settings <br> 
+├── 📂 backend/                  # Backend code <br> 
 │   ├── 📂 src/                  
-│   │   ├── 📂 config/           # Configuration files
-│   │   ├── 📂 controllers/      # Business logic
-│   │   ├── 📂 middleware/       # Middleware functions
-│   │   ├── 📂 models/           # Database models
-│   │   ├── 📂 routes/           # API routes
-│   │   ├── 📂 utils/            # Helper utilities
-│   │   └── 📜 app.js            # App entry point
+│   │   ├── 📂 config/           # Configuration files <br> 
+│   │   ├── 📂 controllers/      # Business logic <br> 
+│   │   ├── 📂 middleware/       # Middleware functions <br> 
+│   │   ├── 📂 models/           # Database models <br> 
+│   │   ├── 📂 routes/           # API routes <br> 
+│   │   ├── 📂 utils/            # Helper utilities <br> 
+│   │   └── 📜 app.js            # App entry point <br> 
 │   │
-│   ├── 📜 .env.example          # Example environment variables
-│   ├── 📜 .gitignore            # Git ignore rules
-│   ├── 📜 package-lock.json     # Dependency lockfile
-│   ├── 📜 package.json          # Backend dependencies & scripts
-│   └── 📜 test-env.js           # Environment test script
+│   ├── 📜 .env.example          # Example environment variables <br> 
+│   ├── 📜 .gitignore            # Git ignore rules <br> 
+│   ├── 📜 package-lock.json     # Dependency lockfile <br> 
+│   ├── 📜 package.json          # Backend dependencies & scripts <br> 
+│   └── 📜 test-env.js           # Environment test script <br> 
 │
-├── 📂 css/                      # Stylesheets
+├── 📂 css/                      # Stylesheets <br> 
 │   ├── 📜 Tag-Based-filtering.css
 │   ├── 📜 about.css
 │   ├── 📜 add-organize-papers.css
@@ -227,4 +227,5 @@ This project aims to become a **fully functional research management system** wi
 - * Login/signup feature for cloud syncing*
 
 ---
+
 
