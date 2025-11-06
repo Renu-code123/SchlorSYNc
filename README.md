@@ -76,17 +76,17 @@ This allows users to focus on learning and innovation instead of manual data han
 
 ```
 📦 Research-Paper-Organizer
-├── 📂 .github/  <br>               # GitHub workflows, issue & PR templates <br> 
-├── 📂 .vscode/   <br>                # VS Code workspace settings <br> 
-├── 📂 backend/   <br>                # Backend code <br> 
-│   ├── 📂 src/   <br>                
-│   │   ├── 📂 config/   <br>         # Configuration files <br> 
-│   │   ├── 📂 controllers/ <br>      # Business logic <br> 
-│   │   ├── 📂 middleware/  <br>      # Middleware functions <br> 
-│   │   ├── 📂 models/      <br>      # Database models <br> 
-│   │   ├── 📂 routes/      <br>      # API routes <br> 
-│   │   ├── 📂 utils/      <br>       # Helper utilities <br> 
-│   │   └── 📜 app.js     <br>        # App entry point <br> 
+├── 📂 .github/                 # GitHub workflows, issue & PR templates <br> 
+├── 📂 .vscode/                  # VS Code workspace settings <br> 
+├── 📂 backend/              # Backend code <br> 
+│   ├── 📂 src/                   
+│   │   ├── 📂 config/            # Configuration files <br> 
+│   │   ├── 📂 controllers/      # Business logic <br> 
+│   │   ├── 📂 middleware/        # Middleware functions <br> 
+│   │   ├── 📂 models/           # Database models <br> 
+│   │   ├── 📂 routes/            # API routes <br> 
+│   │   ├── 📂 utils/             # Helper utilities <br> 
+│   │   └── 📜 app.js             # App entry point <br> 
 │   │
 │   ├── 📜 .env.example          # Example environment variables <br> 
 │   ├── 📜 .gitignore            # Git ignore rules <br> 
@@ -226,6 +226,7 @@ This project aims to become a **fully functional research management system** wi
 #PPT LINK :https://1drv.ms/p/c/8ceba7ce387d0525/ES6fbNGd0jFFgk50-r2zfqcBouaPDoIa57oqDg69MkbFFA?e=vkLuks
 
 ---
+
 
 
 
