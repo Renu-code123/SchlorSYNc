@@ -1,6 +1,3 @@
-<a name="top"></a>
-<div align="center">
-
 
 # 🎓 ScholarSync  
 ### *Smarter Research, Simplified.*
@@ -228,6 +225,7 @@ This project aims to become a **fully functional research management system** wi
 ##DemoVideo: https://drive.google.com/file/d/1DFmWr8Rydt3lkU7hGO2BVOURZ0Ea9KFb/view?usp=drivesdk
 
 ---
+
 
 
 
